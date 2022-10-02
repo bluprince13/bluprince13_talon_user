@@ -1,0 +1,12 @@
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = ./cursorless-talon
+[submodule "dense-mouse-grid"]
+	path = dense-mouse-grid
+	url = ./dense-mouse-grid
+[submodule "knausj_talon"]
+	path = knausj_talon
+	url = ./knausj_talon
+[submodule "bluprince13_talon"]
+	path = bluprince13_talon
+	url = https://github.com/bluprince13/bluprince13_talon.git
