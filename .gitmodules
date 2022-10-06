@@ -6,7 +6,7 @@
 	url = https://github.com/tararoys/dense-mouse-grid
 [submodule "knausj_talon"]
 	path = knausj_talon
-	url = https://github.com/knausj85/knausj_talon
+	url = https://github.com/bluprince13/knausj_talon
 [submodule "bluprince13_talon"]
 	path = bluprince13_talon
 	url = https://github.com/bluprince13/bluprince13_talon
